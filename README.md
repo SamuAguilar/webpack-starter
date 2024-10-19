@@ -1,4 +1,4 @@
-# Webpack Started
+# Webpack Starter
 
 Este es el proyecto incial para crear app utilizando webpack.
 
